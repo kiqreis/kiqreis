@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Kaique Reis
-
 <div align="center">
   <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJtMmFpdzhxZGJjMm9uNHNoa3VnMWNjZWs3OTRkb3o3bjA4bXFiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" />
 </div>
@@ -15,7 +14,6 @@
 ---
 
 ### 👨‍💻 About Me
-
 I'm Kaique from Brazil  
 - 💻 Backend Developer (Java, C#)  
 - 📚 Currently learning RabbitMQ and Apache Kafka, and diving deeper into Angular  
@@ -24,7 +22,6 @@ I'm Kaique from Brazil
 ---
 
 ### 🛠 Languages and Tools
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
@@ -60,8 +57,36 @@ I'm Kaique from Brazil
 ---
 
 ### 🔥 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiqreis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiqreis&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiqreis&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kiqreis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="250" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiqreis&theme=gruvbox&hide_border=false" height="150" alt="streak stats" />
+</div>
+
+---
+
+### 📊 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiqreis&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph">
+</div>
+
+---
+
+### 🎯 Featured Projects
+<div align="center">
+  <a href="https://github.com/kiqreis/fluent-finance-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiqreis&repo=fluent-finance-api&theme=gruvbox&hide_border=false" />
+  </a>
+  <a href="https://github.com/kiqreis/recipe-book-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiqreis&repo=recipe-book-app&theme=gruvbox&hide_border=false" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kiqreis&color=green&style=flat-square&label=Profile+Views" alt="profile views" />
 </div>
