@@ -17,7 +17,6 @@
 I'm Kaique from Brazil  
 - 💻 Backend Developer (Java, C#)  
 - 📚 Currently learning RabbitMQ and Apache Kafka, and diving deeper into Angular  
-- ⚡ In my free time, I'm coding a personal project for delivery tracking
 
 ---
 
