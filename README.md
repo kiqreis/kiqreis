@@ -63,13 +63,6 @@ I'm Kaique from Brazil
 
 ---
 
-### 📊 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiqreis&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph">
-</div>
-
----
-
 ### 🎯 Featured Projects
 <div align="center">
   <a href="https://github.com/kiqreis/fluent-finance-api">
