@@ -55,18 +55,6 @@ I'm Kaique from Brazil
 
 ---
 
-### 🎯 Featured Projects
-<div align="center">
-  <a href="https://github.com/kiqreis/fluent-finance-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiqreis&repo=fluent-finance-api&theme=gruvbox&hide_border=false" />
-  </a>
-  <a href="https://github.com/kiqreis/recipe-book-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiqreis&repo=recipe-book-app&theme=gruvbox&hide_border=false" />
-  </a>
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kiqreis&color=green&style=flat-square&label=Profile+Views" alt="profile views" />
 </div>
