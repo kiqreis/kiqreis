@@ -15,8 +15,8 @@
 
 ### 👨‍💻 About Me
 I'm Kaique from Brazil  
-- 💻 Backend Developer (Java, C#)  
-- 📚 Currently learning RabbitMQ and Apache Kafka, and diving deeper into Angular  
+- 💻 Data Engineer (Python, Java, C#)  
+- 📚 Currently learning PySpark, and diving deeper into Power BI  
 
 ---
 
