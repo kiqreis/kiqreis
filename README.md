@@ -38,7 +38,6 @@ I'm Kaique from Brazil
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 </div>
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kiqreis&color=green&style=flat-square&label=Profile+Views" alt="profile views" />
